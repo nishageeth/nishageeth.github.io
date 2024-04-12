@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.be179cc2.css",
-    "main.js": "/static/js/main.170606a8.js",
+    "main.css": "/static/css/main.559e3967.css",
+    "main.js": "/static/js/main.4b8323c7.js",
     "static/js/787.c44c5cce.chunk.js": "/static/js/787.c44c5cce.chunk.js",
     "static/media/2.mp4": "/static/media/2.3f0796def8fba1bd29f1.mp4",
     "static/media/1.mp4": "/static/media/1.b4d4e234aacca25de5e6.mp4",
@@ -61,6 +61,8 @@
     "static/media/electrolyzer.png": "/static/media/electrolyzer.2f7ab85fff0e25e7bfbe.png",
     "static/media/ac.png": "/static/media/ac.8e0e5bed5b73c3a464fd.png",
     "static/media/fuelCell.png": "/static/media/fuelCell.695d1e798fd7ff04bdbf.png",
+    "static/media/one.JPG": "/static/media/one.0f53e76be8e88e58d48c.JPG",
+    "static/media/two.JPG": "/static/media/two.908da52dce6a34176568.JPG",
     "static/media/inverter.png": "/static/media/inverter.67c634aacb8c96521150.png",
     "static/media/load.png": "/static/media/load.8892b7481f5941fc5b44.png",
     "static/media/dumpLoad.png": "/static/media/dumpLoad.054465b2054432369256.png",
@@ -70,12 +72,12 @@
     "static/media/converter.png": "/static/media/converter.e67390184203db6443f4.png",
     "static/media/rays.PNG": "/static/media/rays.e26f23bd4399aceff30b.PNG",
     "index.html": "/index.html",
-    "main.be179cc2.css.map": "/static/css/main.be179cc2.css.map",
-    "main.170606a8.js.map": "/static/js/main.170606a8.js.map",
+    "main.559e3967.css.map": "/static/css/main.559e3967.css.map",
+    "main.4b8323c7.js.map": "/static/js/main.4b8323c7.js.map",
     "787.c44c5cce.chunk.js.map": "/static/js/787.c44c5cce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be179cc2.css",
-    "static/js/main.170606a8.js"
+    "static/css/main.559e3967.css",
+    "static/js/main.4b8323c7.js"
   ]
 }
