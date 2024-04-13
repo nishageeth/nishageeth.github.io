@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.559e3967.css",
-    "main.js": "/static/js/main.ccc9b782.js",
+    "main.css": "/static/css/main.2ad07c27.css",
+    "main.js": "/static/js/main.95bee8fd.js",
     "static/js/787.c44c5cce.chunk.js": "/static/js/787.c44c5cce.chunk.js",
     "static/media/2.mp4": "/static/media/2.3f0796def8fba1bd29f1.mp4",
     "static/media/1.mp4": "/static/media/1.b4d4e234aacca25de5e6.mp4",
@@ -45,6 +45,7 @@
     "static/media/battery9.png": "/static/media/battery9.ae3dcf6387055a3214ac.png",
     "static/media/battery8.png": "/static/media/battery8.fc017a4f7c934a9d1bbf.png",
     "static/media/mppt.png": "/static/media/mppt.44b1df549d7d7ddf15ef.png",
+    "static/media/main.jpeg": "/static/media/main.6bfc5a9fc62feb544fd6.jpeg",
     "static/media/solarpv.jpg": "/static/media/solarpv.be0c4a5af297437e099f.jpg",
     "static/media/jackfruit.webp": "/static/media/jackfruit.73f1fd191b9a8d9f41ae.webp",
     "static/media/inverter.jpg": "/static/media/inverter.5f5deced9457700ec4c8.jpg",
@@ -62,6 +63,7 @@
     "static/media/ac.png": "/static/media/ac.8e0e5bed5b73c3a464fd.png",
     "static/media/fuelCell.png": "/static/media/fuelCell.695d1e798fd7ff04bdbf.png",
     "static/media/one.JPG": "/static/media/one.0f53e76be8e88e58d48c.JPG",
+    "static/media/one.jpeg": "/static/media/one.d25609b2b1716e27e995.jpeg",
     "static/media/two.JPG": "/static/media/two.908da52dce6a34176568.JPG",
     "static/media/inverter.png": "/static/media/inverter.67c634aacb8c96521150.png",
     "static/media/load.png": "/static/media/load.8892b7481f5941fc5b44.png",
@@ -72,12 +74,12 @@
     "static/media/converter.png": "/static/media/converter.e67390184203db6443f4.png",
     "static/media/rays.PNG": "/static/media/rays.e26f23bd4399aceff30b.PNG",
     "index.html": "/index.html",
-    "main.559e3967.css.map": "/static/css/main.559e3967.css.map",
-    "main.ccc9b782.js.map": "/static/js/main.ccc9b782.js.map",
+    "main.2ad07c27.css.map": "/static/css/main.2ad07c27.css.map",
+    "main.95bee8fd.js.map": "/static/js/main.95bee8fd.js.map",
     "787.c44c5cce.chunk.js.map": "/static/js/787.c44c5cce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.559e3967.css",
-    "static/js/main.ccc9b782.js"
+    "static/css/main.2ad07c27.css",
+    "static/js/main.95bee8fd.js"
   ]
 }
