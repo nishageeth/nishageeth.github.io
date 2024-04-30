@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2ad07c27.css",
-    "main.js": "/static/js/main.7d6871cd.js",
+    "main.js": "/static/js/main.f49d6bd1.js",
     "static/js/787.c44c5cce.chunk.js": "/static/js/787.c44c5cce.chunk.js",
     "static/media/2.mp4": "/static/media/2.3f0796def8fba1bd29f1.mp4",
     "static/media/1.mp4": "/static/media/1.b4d4e234aacca25de5e6.mp4",
@@ -9,6 +9,7 @@
     "static/media/5.mp4": "/static/media/5.8532876cfe7ba28dd378.mp4",
     "static/media/3.mp4": "/static/media/3.631dfd09530d44c4f564.mp4",
     "static/media/6.mp4": "/static/media/6.86c323311aa91b3b941b.mp4",
+    "static/media/main.png": "/static/media/main.ce7b2a6816fd7498c9aa.png",
     "static/media/roof.png": "/static/media/roof.bf838926f891586eb364.png",
     "static/media/dcpanel.png": "/static/media/dcpanel.e3f319f822b9afdc537a.png",
     "static/media/solarDetails.png": "/static/media/solarDetails.edcb0f6cddca202df1e7.png",
@@ -60,10 +61,14 @@
     "static/media/control2.jpg": "/static/media/control2.18129b796da14760ef74.jpg",
     "static/media/labgoal.png": "/static/media/labgoal.572317b14c79d4b739b4.png",
     "static/media/plant.png": "/static/media/plant.7ae12bd49cfbd728a36e.png",
+    "static/media/3.jpeg": "/static/media/3.a21167b77ca137ee1422.jpeg",
     "static/media/h2.png": "/static/media/h2.c9c158bad95d4270a386.png",
+    "static/media/1.jpeg": "/static/media/1.d59c2c69dd6bc3b6e88f.jpeg",
     "static/media/electrolyzer.png": "/static/media/electrolyzer.2f7ab85fff0e25e7bfbe.png",
     "static/media/ac.png": "/static/media/ac.8e0e5bed5b73c3a464fd.png",
+    "static/media/4.jpeg": "/static/media/4.da6a547f343338b264ff.jpeg",
     "static/media/fuelCell.png": "/static/media/fuelCell.695d1e798fd7ff04bdbf.png",
+    "static/media/2.jpeg": "/static/media/2.0c5183ff0148c2f9a4bc.jpeg",
     "static/media/one.JPG": "/static/media/one.0f53e76be8e88e58d48c.JPG",
     "static/media/one.jpeg": "/static/media/one.d25609b2b1716e27e995.jpeg",
     "static/media/two.JPG": "/static/media/two.908da52dce6a34176568.JPG",
@@ -77,11 +82,11 @@
     "static/media/rays.PNG": "/static/media/rays.e26f23bd4399aceff30b.PNG",
     "index.html": "/index.html",
     "main.2ad07c27.css.map": "/static/css/main.2ad07c27.css.map",
-    "main.7d6871cd.js.map": "/static/js/main.7d6871cd.js.map",
+    "main.f49d6bd1.js.map": "/static/js/main.f49d6bd1.js.map",
     "787.c44c5cce.chunk.js.map": "/static/js/787.c44c5cce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ad07c27.css",
-    "static/js/main.7d6871cd.js"
+    "static/js/main.f49d6bd1.js"
   ]
 }
