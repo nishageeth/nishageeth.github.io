@@ -1,34 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.2ad07c27.css",
-    "main.js": "/static/js/main.1b66200d.js",
+    "main.js": "/static/js/main.2786b90e.js",
     "static/js/787.c44c5cce.chunk.js": "/static/js/787.c44c5cce.chunk.js",
     "static/media/2.mp4": "/static/media/2.3f0796def8fba1bd29f1.mp4",
     "static/media/1.mp4": "/static/media/1.b4d4e234aacca25de5e6.mp4",
     "static/media/4.mp4": "/static/media/4.5736b24dba3dfaf5e0c5.mp4",
     "static/media/5.mp4": "/static/media/5.8532876cfe7ba28dd378.mp4",
     "static/media/3.mp4": "/static/media/3.631dfd09530d44c4f564.mp4",
-    "static/media/thermal.gif": "/static/media/thermal.ec00d379f914bc04f17e.gif",
-    "static/media/thermal1.gif": "/static/media/thermal1.b86308c86127fba1ad3e.gif",
-    "static/media/thermal10.gif": "/static/media/thermal10.401b3e388c8aea320660.gif",
-    "static/media/thermal2.gif": "/static/media/thermal2.6e5cdd07cf38635d8192.gif",
-    "static/media/thermal3.gif": "/static/media/thermal3.f4158e3afe1e4b082d6a.gif",
-    "static/media/thermal4.gif": "/static/media/thermal4.435b1ce99c4853aaa385.gif",
-    "static/media/thermal5.gif": "/static/media/thermal5.00304a110731e6682c0d.gif",
-    "static/media/thermal6.gif": "/static/media/thermal6.9691ca656e76d761c4e2.gif",
-    "static/media/thermal7.gif": "/static/media/thermal7.9691ca656e76d761c4e2.gif",
-    "static/media/thermal8.gif": "/static/media/thermal8.401b3e388c8aea320660.gif",
-    "static/media/thermal9.gif": "/static/media/thermal9.7cc514e25ee263a152d1.gif",
     "static/media/6.mp4": "/static/media/6.86c323311aa91b3b941b.mp4",
     "static/media/main.png": "/static/media/main.ce7b2a6816fd7498c9aa.png",
     "static/media/roof.png": "/static/media/roof.bf838926f891586eb364.png",
     "static/media/dcpanel.png": "/static/media/dcpanel.e3f319f822b9afdc537a.png",
     "static/media/solarDetails.png": "/static/media/solarDetails.edcb0f6cddca202df1e7.png",
+    "static/media/thermal.png": "/static/media/thermal.4bcc74fc2fcca9b27231.png",
     "static/media/fan.png": "/static/media/fan.892bb03677541b55fc8d.png",
     "static/media/intro.webp": "/static/media/intro.159b13ef393dde23aab8.webp",
     "static/media/bananas.jpg": "/static/media/bananas.ed9bdf8a10a17f2740d8.jpg",
     "static/media/controller.png": "/static/media/controller.fabc5c9154aa998376c0.png",
     "static/media/intro2.PNG": "/static/media/intro2.868c97275515d25315e4.PNG",
+    "static/media/vv.mp4": "/static/media/vv.61b5dee04d389087e02d.mp4",
     "static/media/bio.png": "/static/media/bio.c89b352c47303090350c.png",
     "static/media/solarPractical.png": "/static/media/solarPractical.3a07f83060dc0a11a813.png",
     "static/media/hydro.png": "/static/media/hydro.f4f418e444c20d7b2316.png",
@@ -93,11 +84,11 @@
     "static/media/rays.PNG": "/static/media/rays.e26f23bd4399aceff30b.PNG",
     "index.html": "/index.html",
     "main.2ad07c27.css.map": "/static/css/main.2ad07c27.css.map",
-    "main.1b66200d.js.map": "/static/js/main.1b66200d.js.map",
+    "main.2786b90e.js.map": "/static/js/main.2786b90e.js.map",
     "787.c44c5cce.chunk.js.map": "/static/js/787.c44c5cce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ad07c27.css",
-    "static/js/main.1b66200d.js"
+    "static/js/main.2786b90e.js"
   ]
 }
